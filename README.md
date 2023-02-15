@@ -23,4 +23,4 @@ Bootstrap / Html / Css
 
 #
 
-<img align="center" alt="Bootstrap" height="230" width="240" src="https://github.com/GuilhermeVideira/Portifolio/blob/main/Readme/Readme.png?raw=true" />
+<img align="center" alt="Bootstrap" height="630" width="1040" src="https://github.com/GuilhermeVideira/Portifolio/blob/main/Readme/Readme.png?raw=true" />
