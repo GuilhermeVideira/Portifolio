@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+.container .imagem-fundo-branco{
+    top: 130px;
+    left: 110px;
+    border-top-left-radius: 0%;
+    border-radius: 20%;
+    position: absolute;
+}
+
+.container .imagem-conhecimento {
+    top: 143px;
+    left: 120px;
+    border-top-left-radius: 0%;
+    border-radius: 80%;
+    position: absolute;
+}
+
+.container .descricao-inicial{
+    top: 103px;
+    left: 500px;
+    position: absolute;
+}
+
+.container .imagemlinha{
+    top: 159px;
+    left: 520px;
+    position: absolute;
+}
+
+.container .descricao-inicial2{
+    top: 186px;
+    left: 440px;
+    position: absolute;
+}
+
+
+.container .imagemlinha2{
+    top: 520px;
+    left: 50px;
+    position: absolute;
+}
+
+.container .descricao-inicial3{
+    top: 260px;
+    left: 440px;
+    position: absolute;
+}
+
+.container .descricao-inicial4{
+    top: 300px;
+    left: 440px;
+    position: absolute;
+}
+
+.container .descricao-inicial5{
+    top: 340px;
+    left: 440px;
+    position: absolute;
+}
+
+.container .descricao-inicial6{
+    top: 380px;
+    left: 440px;
+    position: absolute;
+}
+
+.btn-group {
+    top: 458px;
+    left: 620px;
+    position: absolute;
+}
+
+.descricao{
+    top: 588px;
+    left: 30px;
+    position: absolute;
+}
+
+.descricao2{
+    top: 688px;
+    left: 30px;
+    position: absolute;
+}
+
+.cartao{
+    top: 888px;
+    left: 30px;
+    position: absolute;
+}
+
+.cartao2{
+    top: 1258px;
+    left: 30px;
+    position: absolute;
+}
+

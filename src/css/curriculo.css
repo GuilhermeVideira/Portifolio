@@ -1,0 +1,181 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.container {
+    max-width: 10000px;
+    max-height: 190px;
+    margin: 190 auto;
+    display: flex;
+    align-items: center;
+    height: calc(84vh - 40px);
+    background-color: rgb(243, 242, 242);
+    
+}
+
+.container .imagem-fundo-branco {
+    top: 90px;
+    left: 70px;
+    border-top-left-radius: 0%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+
+.container .titulo{
+    top: 110px;
+    left: 280px;
+    position: absolute;
+}
+
+.container .btn-group{
+    top: 190px;
+    left: 350px;
+    position: absolute;
+}
+
+.container .foto-curriculo {
+    top: 303px;
+    left: 30px;
+    position: absolute;
+}
+
+.container .notebook{
+    top: 110px;
+    left: 140px;
+    position: absolute;
+}
+
+.Titulo1 {
+    top: 330px;
+    left: 440px;
+    position: absolute;
+}
+
+.Titulo2 {
+    top: 330px;
+    left: 840px;
+    position: absolute;
+}
+
+.Titulo3 {
+    top: 630px;
+    left: 440px;
+    position: absolute;
+}
+
+.Titulo4 {
+    top: 630px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao01{
+    top: 380px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao02{
+    top: 420px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao03{
+    top: 445px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao04{
+    top: 480px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao05{
+    top: 520px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao06{
+    top: 545px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao07{
+    top: 380px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao08{
+    top: 420px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao09{
+    top: 480px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao10{
+    top: 520px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao11{
+    top: 668px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao12{
+    top: 700px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao13{
+    top: 740px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao14{
+    top: 770px;
+    left: 430px;
+    position: absolute;
+}
+
+.descricao15{
+    top: 668px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao16{
+    top: 700px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao17{
+    top: 740px;
+    left: 840px;
+    position: absolute;
+}
+
+.descricao18{
+    top: 770px;
+    left: 840px;
+    position: absolute;
+}
+

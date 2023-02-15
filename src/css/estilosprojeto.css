@@ -1,0 +1,188 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 10000px;
+    max-height: 500px;
+    margin: 19 auto;
+    display: flex;
+    align-items: center;
+    height: calc(60vh - 40px);
+    background-color: rgb(243, 242, 242);
+    
+}
+
+.container .imagem-fundo-azul {
+    top: 160px;
+    left: 100px;
+    border-top-left-radius: 0%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+.container .imagem-fundo-branco2 {
+    top: 90px;
+    left: 100px;
+    border-top-left-radius: 0%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+.container .imagem-fundo-branco {
+    top: 190px;
+    left: 100px;
+    border-top-left-radius: 0%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+.container .imagem-fundo-azul2 {
+    top: 70px;
+    left: 100px;
+    border-top-left-radius: 0%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+
+.container .introducao {
+    top: 310px; 
+    left: 148px;
+    position: absolute; 
+}
+
+.container .linha1 {
+    top: 360px;
+    left: 148px;
+    position: absolute;
+}
+
+.container .imagem-plano {
+    top: 100px;
+    left: 100px;
+    border-top-left-radius: 0%;
+    border-radius: 2%;
+    position: absolute;
+ }
+  
+
+.container .btn-group {
+    top: 409px;
+    left: 420px;
+    position: absolute;
+}
+
+.imagemlinha {
+    top: 600px;
+    left: 850px;
+    position: absolute;
+} 
+
+.container .notebook {
+    top: 373px;
+    left: 230px;
+    position: absolute;
+}
+
+.titulo-descricao-inicial {
+    top: 605px;
+    left: 40px;
+    position: absolute;
+}
+
+.projetos {
+    top: 730px;
+    left: 20px;
+    position: absolute;
+}
+
+.projetos2{
+    top: 730px;
+    left: 430px;
+    position: absolute;
+}
+
+.projetos3 {
+    top: 1480px;
+    left: 20px;
+    position: absolute;
+}
+
+.projetos4{
+    top: 1480px;
+    left: 430px;
+    position: absolute;
+}
+
+.projetos5 {
+    top: 2200px;
+    left: 20px;
+    position: absolute;
+}
+
+.projetos6{
+    top: 2200px;
+    left: 430px;
+    position: absolute;
+}
+
+.projetos7 {
+    top: 2800px;
+    left: 20px;
+    position: absolute;
+}
+
+.projetos8{
+    top: 2800px;
+    left: 430px;
+    position: absolute;
+}
+
+.projetos9 {
+    top: 3460px;
+    left: 20px;
+    position: absolute;
+}
+
+.projetos10{
+    top: 3460px;
+    left: 430px;
+    position: absolute;
+}
+
+.projetos11 {
+    top: 4060px;
+    left: 20px;
+    position: absolute;
+}
+
+.projetos12{
+    top: 4060px;
+    left: 430px;
+    position: absolute;
+}
+
+.foto-baner-projeto{
+    top: 605px;
+    left: 900px;
+    position: absolute;
+}
+
+.descricao-inicial{
+    top: 2145px;
+    left: 870px;
+    position: absolute;
+}
+
+.Icone{
+    top: 2245px;
+    left: 900px;
+    position: absolute;
+}
+
+.botao{
+    top: 3965px;
+    left: 1015px;
+    position: absolute;
+}

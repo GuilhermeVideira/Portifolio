@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.container {
+    max-width: 10000px;
+    max-height: 500px;
+    margin: 190 auto;
+    display: flex;
+    align-items: center;
+    height: calc(84vh - 40px);
+    background-color: rgb(243, 242, 242);
+    
+}
+
+.container .imagem-fundo-branco {
+    top: 200px;
+    left: 70px;
+    border-top-left-radius: 0%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+.container .imagem-plano {
+   top: 100px;
+   left: 70px;
+   border-top-left-radius: 0%;
+   border-radius: 6%;
+   position: absolute;
+}
+ 
+.container .imagem-titulo {
+   top: 180px;
+   left: 70px;
+   position: absolute;
+}
+
+.container .introducao {
+    top: 302px; 
+    left: 388px;
+    position: absolute; 
+}
+
+.container .imagemlinha {
+    top: 352px;
+    left: 388px;
+    position: absolute;
+}
+
+
+.container .linha1 {
+    top: 364px;
+    left: 388px;
+    position: absolute;
+}
+
+.container .linha2 {
+    top: 396px;
+    left: 388px;
+    position: absolute;
+}
+
+.container .linha3 {
+    top: 429px;
+    left: 388px;
+    position: absolute;
+}
+
+
+.container .btn-group {
+    top: 497px;
+    left: 508px;
+    position: absolute;
+}
+
+.titulo-descricao-inicial {
+    top: 600px;
+    left: 370px;
+    position: absolute;
+}
+
+.descricao-inicial {
+    top: 670px;
+    left: 40px;
+    position: absolute;
+}
+
+
+.descricao-inicial2 {
+    top: 720px;
+    left: 40px;
+    position: absolute;
+}
+
+.descricao-inicial3 {
+    top: 800px;
+    left: 40px;
+    position: absolute;
+}
+
+.titulo-tabela{
+    top: 900px;
+    left: 480px;
+    position: absolute;
+}
+
+.cartao {
+    top: 990px;
+    left: 10px;
+    position: absolute;
+}
+

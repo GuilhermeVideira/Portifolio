@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   
+   ul {
+     list-style: none;
+   }
+   
+   a {
+      text-decoration: none; 
+   }
+
+   a { 
+    color: inherit; 
+  }
+  
+  /* link que ainda não foi visitado */
+a:link {
+  color: rgb(0, 0, 0);
+}
+
+/* link que foi visitado */
+a:visited {
+   color: rgb(0, 0, 0);
+}
+
+/* mouse over */
+a:hover {
+   color: #00d9ff;
+}
+
+/* link selecionado */
+a:active {
+   color: rgb(139, 255, 71);
+}
