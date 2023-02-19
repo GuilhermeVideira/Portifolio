@@ -1,7 +1,7 @@
-# 📱 Portifólio 📱
-Este seguinte projeto é o meu portifólio desenvolvido, aqui você poderá consultar todo o meu histórico profissional. 
+# 📱 Portfólio 📱
+Este seguinte projeto é o meu portfólio desenvolvido, aqui você poderá consultar todo o meu histórico profissional. 
 
-No meu portifólio você poderá consultar sobre: 
+No meu portfólio você poderá consultar sobre: 
 
 💻 Meus Projetos 💻 
 
@@ -23,4 +23,4 @@ Bootstrap / Html / Css
 
 #
 
-<img align="center" alt="Bootstrap" height="500" width="1040" src="https://github.com/GuilhermeVideira/Portifolio/blob/main/Readme/Readme.png?raw=true" />
+<img align="center" alt="Imagem do portfolio" src="https://github.com/GuilhermeVideira/Portifolio/blob/main/Readme/Readme.png?raw=true" />
